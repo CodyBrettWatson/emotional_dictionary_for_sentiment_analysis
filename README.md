@@ -1,0 +1,1 @@
+# emotional_dictionary_for_sentiment_analysis
