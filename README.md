@@ -8,6 +8,7 @@ I will be showing all of the steps that I will need to go through to understand 
 
 First, note for this article is that this was orignially based on mandarin chinese text data and the emotions that are displayed may seem a little odd for a western audience. Another goal of this project is to gain an indepth understanding of the method so that we can apply it to any emotion that we so choose. The emotions beings measured, in the paper, are as follows: touching, empathy, boredom, anger, amusement, sadness, surprise, warmness.
 
-Second, a good understanding of discrete mathematics(DM) is necessary to understand this paper. As such I will be providing a basic overview of DM within the repo as a reference for those who do not know or who need a refresher on this subject. I will try to keep more on target with this topic and not go to far a field with DM, I will provide information on the sources I use for this if anyone would like to dive deeper.
+Second, a good understanding of discrete mathematics(DM) and Bayesian Statistics is necessary to understand this paper. I will provide relative information on this subject which is needed to understand this project.
 
 Third, it is important for me to note that this is the first time I am doing most of these things and as such any comments on how to improve this process, the code, or the explanations would be greatly appreciated.
+
