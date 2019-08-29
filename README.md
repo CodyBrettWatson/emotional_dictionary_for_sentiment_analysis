@@ -12,3 +12,4 @@ Second, a good understanding of discrete mathematics(DM) and Bayesian Statistics
 
 Third, it is important for me to note that this is the first time I am doing most of these things and as such any comments on how to improve this process, the code, or the explanations would be greatly appreciated.
 
+Equations and algorithms used through the paper: maximum likelihood estimation, Jensen's inequality.
